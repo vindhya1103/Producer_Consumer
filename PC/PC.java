@@ -29,5 +29,7 @@ public class PC{
                 System.out.println("Consumer" + value);
                 notify();
                 Thread.sleep(500);
-            }        }    }
+            }
+        }    
+    }
 }
